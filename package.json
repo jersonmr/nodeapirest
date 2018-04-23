@@ -1,0 +1,23 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "API REST de usuarios con Node.js y MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "usuarios",
+    "Node.js",
+    "MongoDB"
+  ],
+  "author": "Jerson Moreno",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
