@@ -16,3 +16,5 @@ Para ejecutar el proyecto son necesarios los siguientes pasos:
 Al tratarse de una API REST es necesario ejecutar las pruebas con alguna herramienta que permita realizar la conexión con dicha API como por ejemplo [**Postman**](https://www.getpostman.com/)
 
 La URL por defecto que estará escuchando el servidor es `http://localhost:3000`
+
+Las rutas para testear la API se encuentran en el archivo `./app/routes/user.routes.js`
